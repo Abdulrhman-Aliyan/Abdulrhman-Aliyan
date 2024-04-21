@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Abdulrhman Aliyan! 👋
 
-I'm a passionate Full Stack Developer with expertise in .NET Core, .NET Framework, and Frontend technologies including React, JavaScript, Sass, jQuery, and CSS. I enjoy crafting elegant solutions to complex problems and continually exploring new technologies to stay updated with industry trends.
+👋 Hello! I'm a passionate Full Stack Developer with expertise in both frontend and backend technologies. My frontend stack includes React ⚛️, Material-UI (Mui) 🎨, CSS/Sass 🎨, Bootstrap 🌐, JavaScript (ES6+) 🚀, and jQuery 🧩. I specialize in crafting delightful user interfaces that prioritize usability and aesthetics.
+
+On the backend, I'm proficient in .NET technologies including ASP.NET (MVC, Web API), Entity Framework (EF), and ADO.NET for robust backend development. I enjoy building scalable and efficient APIs that power seamless frontend experiences.
+
+Continuously exploring new frontend innovations and user interface design trends keeps me inspired and ensures I deliver cutting-edge solutions that engage users and enhance overall user experience.
+
+Let's collaborate to create engaging and visually appealing applications that make a positive impact! 🌟
 
 ## About Me
 
@@ -27,10 +33,32 @@ I'm a passionate Full Stack Developer with expertise in .NET Core, .NET Framewor
 
 ## Skills
 
-- **Backend Development:** .NET Core, .NET Framework
-- **Frontend Development:** React, JavaScript, Sass, jQuery, CSS
-- **Other Technologies:** HTML, Git, RESTful APIs
-- **Advanced CSS:** Familiar with advanced CSS tricks and techniques for creating stunning UIs
+- **Frontend Development:**
+  - React (⚛️) - JavaScript library for building user interfaces.
+  - JavaScript ES6+ (🚀) - Modern JavaScript syntax and features.
+  - jQuery (🧩) - Fast and concise JavaScript library for DOM manipulation.
+  - CSS (🎨) - Cascading Style Sheets for styling web pages.
+  - Sass (🌈) - CSS extension language with enhanced features.
+  - Bootstrap (🌐) - Frontend framework for responsive web design.
+  - Material-UI (Mui) (🎨) - React components implementing Google's Material Design.
+  - Languages (🌍): Arabic (Native), English (Excellent).
+
+- **Backend Development:**
+  - .NET Core (.NET) (⚙️) - Cross-platform framework for building applications.
+  - ASP.NET Framework (🌐) - Framework for building web applications.
+  - ADO.NET (📊) - Data access technology for .NET applications.
+  - Entity Framework (EF) (🏗️) - Object-relational mapping framework.
+  - Web Forms (📑) - Framework for building web forms-based applications.
+  - MVC (🌐) - Model-View-Controller architecture for web applications.
+
+- **Other Technologies:**
+  - HTML (⚡) - A markup language for creating web pages.
+  - Git (📜) - Version control system for tracking code changes.
+  - RESTful APIs (🌐) - Architectural style for designing networked applications.
+
+- **Advanced CSS:**
+  - Familiar with advanced CSS tricks and techniques for creating stunning UIs and great UX (🎨💡).
+
 
 ## Get in Touch
 
