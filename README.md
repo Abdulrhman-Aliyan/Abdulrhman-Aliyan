@@ -40,6 +40,7 @@ Let's collaborate to create engaging and visually appealing applications that ma
   - JavaScript ES6+ (🚀) - Modern JavaScript syntax and features.
   - jQuery (🧩) - Fast and concise JavaScript library for DOM manipulation.
   - CSS (🎨) - Cascading Style Sheets for styling web pages.
+    - Advanced CSS: Familiar with advanced CSS tricks and techniques for creating stunning UIs and great UX (🎨💡).  
   - Sass (🌈) - CSS extension language with enhanced features.
   - Bootstrap (🌐) - Frontend framework for responsive web design.
   - Material-UI (Mui) (🎨) - React components implementing Google's Material Design.
@@ -53,14 +54,15 @@ Let's collaborate to create engaging and visually appealing applications that ma
   - Web Forms (📑) - Framework for building web forms-based applications.
   - MVC (🌐) - Model-View-Controller architecture for web applications.
 
+- **Game Development:**
+  - Godot Engine (🎮) - Primary focus on creating immersive and engaging games.
+  - Unity Engine (🛠️) - Secondary focus for crafting innovative gameplay mechanics.
+  - Familiar with designing 2D/3D assets and integrating them into game engines (🌟).
+
 - **Other Technologies:**
   - HTML (⚡) - A markup language for creating web pages.
   - Git (📜) - Version control system for tracking code changes.
   - RESTful APIs (🌐) - Architectural style for designing networked applications.
-
-- **Advanced CSS:**
-  - Familiar with advanced CSS tricks and techniques for creating stunning UIs and great UX (🎨💡).
-
 
 ## Get in Touch
 
