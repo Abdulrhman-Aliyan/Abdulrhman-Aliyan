@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Abdulrhman Aliyan! 👋
 
-👋 Hello! I'm a passionate Full Stack Developer with expertise in both frontend and backend technologies. My frontend stack includes React ⚛️, Material-UI (Mui) 🎨, CSS/Sass 🎨, Bootstrap 🌐, JavaScript (ES6+) 🚀, and jQuery 🧩. I specialize in crafting delightful user interfaces that prioritize usability and aesthetics.
+👋 Hello! I'm a passionate Game, and Full Stack Developer with expertise in both frontend and backend technologies. My frontend stack includes React ⚛️, Material-UI (Mui) 🎨, CSS/Sass 🎨, Bootstrap 🧱, JavaScript (ES6+) 🚀, and jQuery 🧩. I specialize in crafting delightful user interfaces that prioritize usability and aesthetics.
 
-On the backend, I'm proficient in .NET technologies including ASP.NET (MVC, Web API), Entity Framework (EF), and ADO.NET for robust backend development. I enjoy building scalable and efficient APIs that power seamless frontend experiences.
+🌐 On the backend, I'm proficient in .NET technologies including ASP.NET (MVC, Web API), Entity Framework (EF), and ADO.NET for robust backend development. I enjoy building scalable and efficient APIs that power seamless frontend experiences.
+
+🌟 I'm passionate about game development, with a primary focus on Godot Engine 🎮 and a secondary interest in Unity. Whether it's crafting intuitive gameplay mechanics or designing engaging worlds, I enjoy blending creativity and technical skills to deliver immersive experiences. 🚀
 
 Continuously exploring new frontend innovations and user interface design trends keeps me inspired and ensures I deliver cutting-edge solutions that engage users and enhance overall user experience.
 
