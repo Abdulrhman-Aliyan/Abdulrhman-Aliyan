@@ -302,7 +302,7 @@ Some games don't just entertain — they leave a mark on your soul. These are th
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=2000&color=FFD700&center=true&vCenter=true&width=600&lines=%E2%AD%90+%22Code+with+passion%2C+design+with+purpose%2C+ship+with+pride!%22+%E2%AD%90" alt="Motto" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1500&color=FFD700&center=true&vCenter=true&width=450&lines=%E2%AD%90+Code+with+passion...;%E2%AD%90+Design+with+purpose...;%E2%AD%90+Ship+with+pride!" alt="Motto" />
 
 <br>
 
