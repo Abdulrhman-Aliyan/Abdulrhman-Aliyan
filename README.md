@@ -173,6 +173,7 @@ _Every step shaped who I am today — from trainee to full-stack developer._ ✨
 
 ### 🕹️ Games That Shaped Me
 
+<div align="center">
 Some games don't just entertain — they leave a mark on your soul. These are the ones close to my heart:
 
 | 🏆 **All-Time Favorites** | 💫 **Why They Matter**                                                        |
@@ -182,6 +183,8 @@ Some games don't just entertain — they leave a mark on your soul. These are th
 | **Portal 2**              | _Mind-bending puzzles wrapped in dark humor and heart._                       |
 | **BioShock Collection**   | _Would you kindly remember these unforgettable worlds?_                       |
 | **The Witcher 3**         | _An epic adventure where every choice echoes through the world._              |
+
+</div>
 
 <details>
 <summary>🎭 <b>More Games I Adore</b> (click to expand)</summary>
@@ -251,9 +254,11 @@ Some games don't just entertain — they leave a mark on your soul. These are th
 
 </div>
 
-🧑‍💻 **Tech Enthusiast** — I love staying updated with the latest technologies, breakthrough projects, and innovations shaking up the tech industry. Reading about what's next keeps the inspiration flowing!
+🧑💻 **Tech Enthusiast** — I love staying updated with the latest technologies, breakthrough projects, and innovations shaking up the tech industry. Reading about what's next keeps the inspiration flowing!
 
 📖 **Books That Speak to Me:**
+
+<div align="center">
 
 | 📕 **Novels & Stories**                    | ✍️ **Author**              |
 | ------------------------------------------ | -------------------------- |
@@ -261,6 +266,7 @@ Some games don't just entertain — they leave a mark on your soul. These are th
 | **Utopia**                                 | **Ahmed Khaled Tawfik** 🇪🇬 |
 | **Les Misérables**                         | **Victor Hugo** 🇫🇷         |
 
+</div>
 > 📘 _From Arabic paranormal mysteries to French epic tales of redemption — great stories transcend language and time._
 
 ---
