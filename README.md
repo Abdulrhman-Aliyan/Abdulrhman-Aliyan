@@ -12,39 +12,11 @@ Seeking a full-stack developer position · Amman, Jordan · Open to remote work 
 
 ---
 
-## Building across the stack
+## About me
 
-I build production web platforms with **Angular, React, ASP.NET Core, SQL Server, and Azure**, with 4+ years of professional experience across learning platforms, e-commerce, ERP systems, and internal tools.
+I'm a full-stack developer with **4+ years of experience** building learning platforms, e-commerce systems, ERP applications, and internal tools with **Angular, React, ASP.NET Core, SQL Server, and Azure**.
 
-At **Pioneers Academy (PioneersTech)**, I developed an LMS and course-selling platform, significantly improving performance and optimizing request handling to support thousands of users. My work spans payment integration, authentication and roles, real-time features, database optimization, and deployment. I also review code and mentor junior developers.
-
-I'm looking for a **full-stack developer role** where I can contribute across frontend interfaces, backend APIs, databases, and cloud deployment.
-
-## Professional full-stack work
-
-### Learning platform & course commerce · Pioneers Academy
-
-Angular · TypeScript · ASP.NET Core · SQL Server · Azure
-
-- Built features across Angular interfaces, REST APIs, and database access, including the school's ERP HR module.
-- Integrated PayPal and a local payment gateway; implemented authentication and role-based access for students, teachers, and administrators.
-- Built live updates and notifications with SignalR and WebSockets, alongside third-party live-video integration.
-- Optimized SQL queries, EF Core and Dapper data access, caching, and lazy loading; managed Azure SQL, Blob Storage, and releases through Azure DevOps CI/CD.
-
-### ERP systems & internal tools · Dashboard & Workflow Technologies
-
-React · TypeScript · ASP.NET Core · Entity Framework · SQL Server
-
-- Delivered business process features across React and AngularJS frontends, ASP.NET Core services, and SQL Server databases.
-- Built interfaces with MUI and Tailwind CSS and helped the team adopt modern frontend frameworks and tooling.
-
-### CMIC ERP modules · Solutions Now
-
-ASP.NET Core / Framework · Entity Framework · ADO.NET · SQL Server · IIS
-
-- Owned modules end to end, from SQL Server schema to UI, across finance, HR, reporting, production, and planning.
-- Gathered client requirements, delivered integrated features, and deployed applications to IIS on Windows Server.
-- Led client training sessions and presented technical solutions to stakeholders.
+I work across interfaces, backend APIs, authentication, payments, real-time features, database optimization, and cloud deployment. I've significantly improved platform performance and request handling to support thousands of users.
 
 ## Technical toolkit
 
@@ -90,21 +62,7 @@ Also: Dapper, ADO.NET, and Azure SQL.
 
 Also: Azure Blob Storage, WebSockets, and IIS.
 
-## Career
-
-| Company | Role | Dates |
-| :--- | :--- | :--- |
-| Pioneers Academy (PioneersTech) | Full-Stack Developer | Apr 2025 – Present |
-| Ghummayda | Developer | Mar 2024 – Mar 2025 |
-| Dashboard & Workflow Technologies | Full-Stack Web Developer | Dec 2023 – Mar 2024 |
-| Solutions Now | Full-Stack Web Developer | Sep 2022 – Dec 2023 |
-| Clever Mind POB ICT | Web Developer Trainee | Dec 2021 – Aug 2022 |
-
-## Additional web work
-
-Freelance websites include [Baloot Marketing](https://baloot-marketing.com/), [Art Line](https://www.artline-jpl.com/blogs.php), and [Kayan Center](https://kayancenterpt.com/).
-
-My personal portfolio, [ALIYAN-OS](https://abdulrahmanaliyan.netlify.app), explores interactive browser interfaces, a retro desktop experience, and touch controls. I also build 3D campaign landing pages with Three.js and WebGL as part of my work at Pioneers Academy.
+Explore my [portfolio](https://abdulrahmanaliyan.netlify.app) for projects, detailed experience, and my CV.
 
 ## Education & languages
 
