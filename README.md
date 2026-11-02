@@ -95,7 +95,7 @@ Also: Azure Blob Storage, WebSockets, and IIS.
 | Company | Role | Dates |
 | :--- | :--- | :--- |
 | Pioneers Academy (PioneersTech) | Full-Stack Developer | Apr 2025 – Present |
-| Ghummayda | Game Developer; studio website development | Mar 2024 – Mar 2025 |
+| Ghummayda | Developer | Mar 2024 – Mar 2025 |
 | Dashboard & Workflow Technologies | Full-Stack Web Developer | Dec 2023 – Mar 2024 |
 | Solutions Now | Full-Stack Web Developer | Sep 2022 – Dec 2023 |
 | Clever Mind POB ICT | Web Developer Trainee | Dec 2021 – Aug 2022 |
@@ -111,10 +111,6 @@ My personal portfolio, [ALIYAN-OS](https://abdulrahmanaliyan.netlify.app), explo
 **B.Sc. Computer Science**, The World Islamic Sciences and Education University (WISE) · 2018–2022<br>Graduated with Excellent distinction.
 
 **Arabic:** Native · **English:** Fluent
-
-## Beyond the code
-
-I also enjoy game development: [Mafia Night](https://mafia-night.mafia-rooftop.workers.dev/), my work on [Slidezzle](https://store.steampowered.com/app/3129170/Slidezzle/) with the Ghummayda team, and personal Godot games Cube Run / BulletHell and Scrapy Toy Yard. Outside development, I enjoy drawing, 3D experiments, and games with my brothers.
 
 ---
 
