@@ -16,7 +16,7 @@ Seeking a full-stack developer position · Amman, Jordan · Open to remote work 
 
 I build production web platforms with **Angular, React, ASP.NET Core, SQL Server, and Azure**, with 4+ years of professional experience across learning platforms, e-commerce, ERP systems, and internal tools.
 
-At **Pioneers Academy (PioneersTech)**, I developed and optimized an LMS and course-selling platform to support 5,000+ concurrent users at peak. My work spans payment integration, authentication and roles, real-time features, database optimization, and deployment. I also review code and mentor junior developers.
+At **Pioneers Academy (PioneersTech)**, I developed and optimized an LMS and course-selling platform. My work spans payment integration, authentication and roles, real-time features, database optimization, and deployment. I also review code and mentor junior developers.
 
 I'm looking for a **full-stack developer role** where I can contribute across frontend interfaces, backend APIs, databases, and cloud deployment.
 
