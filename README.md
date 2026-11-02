@@ -2,9 +2,9 @@
 
 # Abdulrahman Aliyan
 
-**Full-stack developer · Web platforms & games**
+**Full-Stack Developer · Angular · React · ASP.NET Core**
 
-Amman, Jordan · Open to remote opportunities and relocation
+Seeking a full-stack developer position · Amman, Jordan · Open to remote work and relocation
 
 [Portfolio](https://abdulrahmanaliyan.netlify.app) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/abdalrhman-aliyan-b0855416a) &nbsp; / &nbsp; [Email](mailto:abdulrahmanaliyan@gmail.com)
 
@@ -18,9 +18,53 @@ I build production web platforms with **Angular, React, ASP.NET Core, SQL Server
 
 At **Pioneers Academy (PioneersTech)**, I work on the team behind an LMS and course-selling platform serving **5,000+ concurrent users at peak**. My work spans payment integration, authentication and roles, real-time features, database optimization, and deployment. I also review code and mentor junior developers.
 
-Alongside web development, I build games and interactive experiences with **Godot, GDScript, Three.js, and WebGL**.
+I'm looking for a **full-stack developer role** where I can contribute across frontend interfaces, backend APIs, databases, and cloud deployment.
 
-## Games & interactive projects
+## Technical toolkit
+
+| Area | Technologies |
+| :--- | :--- |
+| **Frontend** | Angular, React, TypeScript, JavaScript, RxJS, HTML, CSS, SASS, Tailwind CSS, MUI |
+| **Backend & data** | C#, ASP.NET Core, REST APIs, EF Core, Dapper, ADO.NET, SQL Server, Azure SQL, MySQL |
+| **Cloud & real-time** | Azure, Blob Storage, Azure DevOps, GitHub Actions, SignalR, WebSockets, IIS, Git |
+| **Games & creative work** | Godot, GDScript, Three.js, WebGL, Photoshop, Illustrator |
+
+## Experience
+
+**Pioneers Academy (PioneersTech)** · Full-Stack Developer<br>
+Apr 2025 – Present<br>
+LMS and course commerce, payment integration, real-time features, Azure deployments, and performance tuning.
+
+**Ghummayda** · Game Developer<br>
+Mar 2024 – Mar 2025<br>
+Shipped Slidezzle on Steam; built and maintained the studio website.
+
+**Dashboard & Workflow Technologies** · Full-Stack Web Developer<br>
+Dec 2023 – Mar 2024<br>
+ERP systems and process tools with React, TypeScript, ASP.NET Core, and SQL Server.
+
+**Solutions Now** · Full-Stack Web Developer<br>
+Sep 2022 – Dec 2023<br>
+CMIC ERP modules across finance, HR, reporting, production, and planning, from database schema to UI.
+
+**Clever Mind POB ICT** · Web Developer Trainee<br>
+Dec 2021 – Aug 2022<br>
+Responsive PHP, MySQL, and JavaScript applications deployed on Apache.
+
+## Selected web projects
+
+| Project | Focus |
+| :--- | :--- |
+| [Baloot Marketing](https://baloot-marketing.com/) | Creative agency website |
+| [Art Line](https://www.artline-jpl.com/blogs.php) | Architecture and engineering website with a blog |
+| [Kayan Center](https://kayancenterpt.com/) | Physiotherapy website with Arabic RTL support |
+| [Ghummayda](https://ghummayda.com/) | Game studio website |
+
+**[ALIYAN-OS ↗](https://abdulrahmanaliyan.netlify.app)** — My interactive portfolio: a retro operating system with a procedural maze game, touch controls, and DOOM running in the browser through WebAssembly.
+
+## Games & creative projects
+
+Alongside my professional web development work, I build games and interactive experiences. These projects explore interaction design, real-time systems, and shipping complete products.
 
 <table>
 <tr>
@@ -55,48 +99,6 @@ Alongside web development, I build games and interactive experiences with **Godo
 </tr>
 </table>
 
-**[ALIYAN-OS ↗](https://abdulrahmanaliyan.netlify.app)** — My interactive portfolio: a retro operating system with a procedural maze game, touch controls, and DOOM running in the browser through WebAssembly.
-
-## Selected websites
-
-| Project | Focus |
-| :--- | :--- |
-| [Baloot Marketing](https://baloot-marketing.com/) | Creative agency website |
-| [Art Line](https://www.artline-jpl.com/blogs.php) | Architecture and engineering website with a blog |
-| [Kayan Center](https://kayancenterpt.com/) | Physiotherapy website with Arabic RTL support |
-| [Ghummayda](https://ghummayda.com/) | Game studio website |
-
-## Technical toolkit
-
-| Area | Technologies |
-| :--- | :--- |
-| **Frontend** | Angular, React, TypeScript, JavaScript, RxJS, HTML, CSS, SASS, Tailwind CSS, MUI |
-| **Backend & data** | C#, ASP.NET Core, REST APIs, EF Core, Dapper, ADO.NET, SQL Server, Azure SQL, MySQL |
-| **Cloud & real-time** | Azure, Blob Storage, Azure DevOps, GitHub Actions, SignalR, WebSockets, IIS, Git |
-| **Games & creative work** | Godot, GDScript, Three.js, WebGL, Photoshop, Illustrator |
-
-## Experience
-
-**Pioneers Academy (PioneersTech)** · Full-Stack Developer<br>
-Apr 2025 – Present<br>
-LMS and course commerce, payment integration, real-time features, Azure deployments, and performance tuning.
-
-**Ghummayda** · Game Developer<br>
-Mar 2024 – Mar 2025<br>
-Shipped Slidezzle on Steam; built and maintained the studio website.
-
-**Dashboard & Workflow Technologies** · Full-Stack Web Developer<br>
-Dec 2023 – Mar 2024<br>
-ERP systems and process tools with React, TypeScript, ASP.NET Core, and SQL Server.
-
-**Solutions Now** · Full-Stack Web Developer<br>
-Sep 2022 – Dec 2023<br>
-CMIC ERP modules across finance, HR, reporting, production, and planning, from database schema to UI.
-
-**Clever Mind POB ICT** · Web Developer Trainee<br>
-Dec 2021 – Aug 2022<br>
-Responsive PHP, MySQL, and JavaScript applications deployed on Apache.
-
 ## Education & languages
 
 **B.Sc. Computer Science**, The World Islamic Sciences and Education University (WISE) · 2018–2022<br>
@@ -110,4 +112,4 @@ I enjoy drawing, 3D experiments, and games with my brothers. Half-Life 2, Portal
 
 ---
 
-**Have a project in mind?** [Let's talk](mailto:abdulrahmanaliyan@gmail.com).
+**Hiring a full-stack developer?** [Let's talk](mailto:abdulrahmanaliyan@gmail.com) · [Connect on LinkedIn](https://www.linkedin.com/in/abdalrhman-aliyan-b0855416a).
