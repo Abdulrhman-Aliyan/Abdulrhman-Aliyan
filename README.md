@@ -20,6 +20,32 @@ At **Pioneers Academy (PioneersTech)**, I developed and optimized an LMS and cou
 
 I'm looking for a **full-stack developer role** where I can contribute across frontend interfaces, backend APIs, databases, and cloud deployment.
 
+## Professional full-stack work
+
+### Learning platform & course commerce · Pioneers Academy
+
+Angular · TypeScript · ASP.NET Core · SQL Server · Azure
+
+- Built features across Angular interfaces, REST APIs, and database access, including the school's ERP HR module.
+- Integrated PayPal and a local payment gateway; implemented authentication and role-based access for students, teachers, and administrators.
+- Built live updates and notifications with SignalR and WebSockets, alongside third-party live-video integration.
+- Optimized SQL queries, EF Core and Dapper data access, caching, and lazy loading; managed Azure SQL, Blob Storage, and releases through Azure DevOps CI/CD.
+
+### ERP systems & internal tools · Dashboard & Workflow Technologies
+
+React · TypeScript · ASP.NET Core · Entity Framework · SQL Server
+
+- Delivered business process features across React and AngularJS frontends, ASP.NET Core services, and SQL Server databases.
+- Built interfaces with MUI and Tailwind CSS and helped the team adopt modern frontend frameworks and tooling.
+
+### CMIC ERP modules · Solutions Now
+
+ASP.NET Core / Framework · Entity Framework · ADO.NET · SQL Server · IIS
+
+- Owned modules end to end, from SQL Server schema to UI, across finance, HR, reporting, production, and planning.
+- Gathered client requirements, delivered integrated features, and deployed applications to IIS on Windows Server.
+- Led client training sessions and presented technical solutions to stakeholders.
+
 ## Technical toolkit
 
 **Frontend**
@@ -64,28 +90,21 @@ Also: Dapper, ADO.NET, and Azure SQL.
 
 Also: Azure Blob Storage, WebSockets, and IIS.
 
-## Experience
+## Career
 
-**Pioneers Academy (PioneersTech)** · Full-Stack Developer<br>Apr 2025 – Present<br>LMS and course commerce, payment integration, real-time features, Azure deployments, and performance tuning.
+| Company | Role | Dates |
+| :--- | :--- | :--- |
+| Pioneers Academy (PioneersTech) | Full-Stack Developer | Apr 2025 – Present |
+| Ghummayda | Game Developer; studio website development | Mar 2024 – Mar 2025 |
+| Dashboard & Workflow Technologies | Full-Stack Web Developer | Dec 2023 – Mar 2024 |
+| Solutions Now | Full-Stack Web Developer | Sep 2022 – Dec 2023 |
+| Clever Mind POB ICT | Web Developer Trainee | Dec 2021 – Aug 2022 |
 
-**Ghummayda** · Game Developer<br>Mar 2024 – Mar 2025<br>Shipped Slidezzle on Steam; built and maintained the studio website.
+## Additional web work
 
-**Dashboard & Workflow Technologies** · Full-Stack Web Developer<br>Dec 2023 – Mar 2024<br>ERP systems and process tools with React, TypeScript, ASP.NET Core, and SQL Server.
+Freelance websites include [Baloot Marketing](https://baloot-marketing.com/), [Art Line](https://www.artline-jpl.com/blogs.php), and [Kayan Center](https://kayancenterpt.com/).
 
-**Solutions Now** · Full-Stack Web Developer<br>Sep 2022 – Dec 2023<br>CMIC ERP modules across finance, HR, reporting, production, and planning, from database schema to UI.
-
-**Clever Mind POB ICT** · Web Developer Trainee<br>Dec 2021 – Aug 2022<br>Responsive PHP, MySQL, and JavaScript applications deployed on Apache.
-
-## Selected web projects
-
-| Project | Focus |
-| :--- | :--- |
-| [Baloot Marketing](https://baloot-marketing.com/) | Creative agency website |
-| [Art Line](https://www.artline-jpl.com/blogs.php) | Architecture and engineering website with a blog |
-| [Kayan Center](https://kayancenterpt.com/) | Physiotherapy website with Arabic RTL support |
-| [Ghummayda](https://ghummayda.com/) | Game studio website |
-
-**[ALIYAN-OS ↗](https://abdulrahmanaliyan.netlify.app)** — My interactive portfolio, built around a retro desktop interface with browser-based experiences and touch controls.
+My personal portfolio, [ALIYAN-OS](https://abdulrahmanaliyan.netlify.app), explores interactive browser interfaces, a retro desktop experience, and touch controls. I also build 3D campaign landing pages with Three.js and WebGL as part of my work at Pioneers Academy.
 
 ## Education & languages
 
