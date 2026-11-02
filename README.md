@@ -22,34 +22,33 @@ I'm looking for a **full-stack developer role** where I can contribute across fr
 
 ## Technical toolkit
 
-| Area | Technologies |
-| :--- | :--- |
-| **Frontend** | Angular, React, TypeScript, JavaScript, RxJS, HTML, CSS, SASS, Tailwind CSS, MUI |
-| **Backend & data** | C#, ASP.NET Core, REST APIs, EF Core, Dapper, ADO.NET, SQL Server, Azure SQL, MySQL |
-| **Cloud & real-time** | Azure, Blob Storage, Azure DevOps, GitHub Actions, SignalR, WebSockets, IIS, Git |
-| **Games & creative work** | Godot, GDScript, Three.js, WebGL, Photoshop, Illustrator |
+**Frontend**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222222) ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8) ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+
+**Backend & databases**
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![EF Core](https://img.shields.io/badge/EF_Core-6D28D9?style=flat-square) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-0F766E?style=flat-square)
+
+Also: Dapper, ADO.NET, and Azure SQL.
+
+**Cloud, delivery & real-time**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![SignalR](https://img.shields.io/badge/SignalR-7C3AED?style=flat-square)
+
+Also: Azure Blob Storage, WebSockets, and IIS.
 
 ## Experience
 
-**Pioneers Academy (PioneersTech)** · Full-Stack Developer<br>
-Apr 2025 – Present<br>
-LMS and course commerce, payment integration, real-time features, Azure deployments, and performance tuning.
+**Pioneers Academy (PioneersTech)** · Full-Stack Developer<br>Apr 2025 – Present<br>LMS and course commerce, payment integration, real-time features, Azure deployments, and performance tuning.
 
-**Ghummayda** · Game Developer<br>
-Mar 2024 – Mar 2025<br>
-Shipped Slidezzle on Steam; built and maintained the studio website.
+**Ghummayda** · Game Developer<br>Mar 2024 – Mar 2025<br>Shipped Slidezzle on Steam; built and maintained the studio website.
 
-**Dashboard & Workflow Technologies** · Full-Stack Web Developer<br>
-Dec 2023 – Mar 2024<br>
-ERP systems and process tools with React, TypeScript, ASP.NET Core, and SQL Server.
+**Dashboard & Workflow Technologies** · Full-Stack Web Developer<br>Dec 2023 – Mar 2024<br>ERP systems and process tools with React, TypeScript, ASP.NET Core, and SQL Server.
 
-**Solutions Now** · Full-Stack Web Developer<br>
-Sep 2022 – Dec 2023<br>
-CMIC ERP modules across finance, HR, reporting, production, and planning, from database schema to UI.
+**Solutions Now** · Full-Stack Web Developer<br>Sep 2022 – Dec 2023<br>CMIC ERP modules across finance, HR, reporting, production, and planning, from database schema to UI.
 
-**Clever Mind POB ICT** · Web Developer Trainee<br>
-Dec 2021 – Aug 2022<br>
-Responsive PHP, MySQL, and JavaScript applications deployed on Apache.
+**Clever Mind POB ICT** · Web Developer Trainee<br>Dec 2021 – Aug 2022<br>Responsive PHP, MySQL, and JavaScript applications deployed on Apache.
 
 ## Selected web projects
 
@@ -60,55 +59,17 @@ Responsive PHP, MySQL, and JavaScript applications deployed on Apache.
 | [Kayan Center](https://kayancenterpt.com/) | Physiotherapy website with Arabic RTL support |
 | [Ghummayda](https://ghummayda.com/) | Game studio website |
 
-**[ALIYAN-OS ↗](https://abdulrahmanaliyan.netlify.app)** — My interactive portfolio: a retro operating system with a procedural maze game, touch controls, and DOOM running in the browser through WebAssembly.
-
-## Games & creative projects
-
-Alongside my professional web development work, I build games and interactive experiences. These projects explore interaction design, real-time systems, and shipping complete products.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<p><sub>LIVE WEB DEMO</sub></p>
-<h3>Mafia Night</h3>
-<p>A social deduction game for 4–16 friends, set in a Wadi Rum camp after dark. Secret roles, timed discussions, and voting, with Arabic and English support.</p>
-<p><strong>React · TypeScript · Cloudflare Workers · D1</strong></p>
-<p><a href="https://mafia-night.mafia-rooftop.workers.dev/">Play Mafia Night ↗</a></p>
-</td>
-<td width="50%" valign="top">
-<p><sub>RELEASED ON STEAM</sub></p>
-<h3>Slidezzle</h3>
-<p>A sliding puzzle game shipped with the Ghummayda team. I contributed to programming, game design, planning, and asset creation.</p>
-<p><strong>Godot · GDScript · Puzzle design</strong></p>
-<p><a href="https://store.steampowered.com/app/3129170/Slidezzle/">View on Steam ↗</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><sub>PERSONAL PROJECT · IN DEVELOPMENT</sub></p>
-<h3>Cube Run / BulletHell</h3>
-<p>A roguelite auto-shooter with solo and local co-op play, 200 encounter rooms, character animation, and a Godot map-building tool.</p>
-<p><strong>Godot · GDScript · Android & Windows builds</strong></p>
-</td>
-<td width="50%" valign="top">
-<p><sub>PERSONAL PROJECT · IN DEVELOPMENT</sub></p>
-<h3>Scrapy Toy Yard</h3>
-<p>A dual-stick robot action game set in a toy factory, developed for Android and PC. A space to explore combat, controls, and stylized 3D worlds.</p>
-<p><strong>Godot · GDScript · Gameplay & 3D assets</strong></p>
-</td>
-</tr>
-</table>
+**[ALIYAN-OS ↗](https://abdulrahmanaliyan.netlify.app)** — My interactive portfolio, built around a retro desktop interface with browser-based experiences and touch controls.
 
 ## Education & languages
 
-**B.Sc. Computer Science**, The World Islamic Sciences and Education University (WISE) · 2018–2022<br>
-Graduated with Excellent distinction.
+**B.Sc. Computer Science**, The World Islamic Sciences and Education University (WISE) · 2018–2022<br>Graduated with Excellent distinction.
 
 **Arabic:** Native · **English:** Fluent
 
 ## Beyond the code
 
-I enjoy drawing, 3D experiments, and games with my brothers. Half-Life 2, Portal 2, BioShock, and The Witcher 3 are lasting sources of inspiration.
+I also enjoy game development: [Mafia Night](https://mafia-night.mafia-rooftop.workers.dev/), my work on [Slidezzle](https://store.steampowered.com/app/3129170/Slidezzle/) with the Ghummayda team, and personal Godot games Cube Run / BulletHell and Scrapy Toy Yard. Outside development, I enjoy drawing, 3D experiments, and games with my brothers.
 
 ---
 
